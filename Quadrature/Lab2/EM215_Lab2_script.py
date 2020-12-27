@@ -1,3 +1,8 @@
+'''
+auther: Madhushan R.
+date: (21-26).12.2020
+'''
+
 import math
 import numpy as np
 import matplotlib.pyplot as plt
